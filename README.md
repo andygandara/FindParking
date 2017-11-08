@@ -1,0 +1,3 @@
+# ParkingFinderApp
+
+Parking Finder App was created for a Hack-A-Thon competion. The goal of the app was to reduce the carbon foot print by making it easier for people to find a parking spot. We used a raspberry pi 3 with an ultrasonic sensor to detect if a car is in the parking spot. The raspberry pi was SSH connected with a small computer that we turned into a web server. The app would connect to the small web server/computer to get the data from the raspberry pi. In the app you can check if the spot is empty or not. The user would also create an account and be able to reserve a spot in advance.
