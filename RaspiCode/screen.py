@@ -1,8 +1,5 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# This is a port of https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight
-# (c) 2014 Helge Jung <helge.jung@youngage.eu>
-# Released unter the LGPL, like the original.
 
 from smbus import SMBus
 import time
